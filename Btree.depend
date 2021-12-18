@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639771610 source:d:\programming\c++\main\btree\main.cpp
+	<iostream>
+
+1639772219 source:d:\programming\c++\main\btree\assign_encoder.cpp
+	<cstdio>
+
